@@ -13,6 +13,6 @@ This report demonstrates:
 **Windscribe Free VPN**
 
 ##  File Included
-- `Windscribe_VPN_Report_Jefrin.pdf`
+- `Windscribe_VPN_Report.pdf`
 
 
