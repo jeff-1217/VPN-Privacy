@@ -15,5 +15,4 @@ This report demonstrates:
 ##  File Included
 - `Windscribe_VPN_Report_Jefrin.pdf`
 
-## 🧑‍💻 Author
-**Jefrin**
+
